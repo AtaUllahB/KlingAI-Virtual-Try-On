@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README for KlingAI Virtual Try-On</title>
+<!--     <title>README for KlingAI Virtual Try-On</title> -->
 </head>
 <body>
     <h1>KlingAI Virtual Try-On</h1>
